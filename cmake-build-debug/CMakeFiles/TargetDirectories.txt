@@ -1,3 +1,3 @@
-C:/Users/rsure/CLionProjects/practice2/cmake-build-debug/CMakeFiles/practice2.dir
-C:/Users/rsure/CLionProjects/practice2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rsure/CLionProjects/practice2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/rsure/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/practice2.dir
+C:/Users/rsure/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rsure/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
